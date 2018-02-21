@@ -645,6 +645,7 @@ Two synthetic data sets that reproduce different permeability characteristics we
 <li>
 
 <pre class="codeinput">artifVessels1.mat</pre>
+<a href="http://phagosight.org/SynData/artifVessels1.mat">http://phagosight.org/SynData/artifVessels1.mat</a>
 
 First data set
 
@@ -652,7 +653,7 @@ First data set
 <li>
 
 <pre class="codeinput">artifVessels2.mat</pre>
-
+<a href="http://phagosight.org/SynData/artifVessels2.mat">http://phagosight.org/SynData/artifVessels2.mat</a>
 Second data set
 
 (more permeable) </li>
